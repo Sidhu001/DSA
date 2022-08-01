@@ -1,0 +1,8 @@
+Which of the following is equivalent to o(n)?
+1. O(N+P) where P < N/2         
+2. O(2N)
+3. O(N+LogN)
+4. O(N+NlogN)
+5. O(N+M)
+
+Answers-> 1,2(2 is non dominant),3(LogN is non dominant).
